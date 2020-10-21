@@ -1,0 +1,10 @@
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\bin\Debug\Bloc_de_notas.exe.config
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\bin\Debug\Bloc_de_notas.exe
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\bin\Debug\Bloc_de_notas.pdb
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.csprojAssemblyReference.cache
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.Form1.resources
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.Properties.Resources.resources
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.csproj.GenerateResource.cache
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.csproj.CoreCompileInputs.cache
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.exe
+C:\Users\adria\Documents\C#\Bloc_de_notas\Bloc_de_notas\obj\Debug\Bloc_de_notas.pdb
