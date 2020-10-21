@@ -31,7 +31,7 @@ namespace Ejercicio2
             n2 = double.Parse(Num2.Text);
 
             r = n1 + n2;
-            //Res.Text = r.ToString();
+            Res.Text = r.ToString();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
